@@ -17,18 +17,18 @@ Local Storage API – Client-side data persistence
 ✨ Features
 
 🔐 Role-Based Login
-Separate login system for Manager and Employee
-Access control based on user role
-Session-like behavior using localStorage
+Separate login system for Manager and Employee  
+Access control based on user role  
+Session-like behavior using localStorage  
 
 👨‍💼 Manager Panel
-Assign tasks to employees
-Track task status
-Monitor employees performance and progress
+Assign tasks to employees    
+Track task status  
+Monitor employees performance and progress  
 
 👨‍🔧 Employee Panel
-View assigned tasks
-Track task status
+View assigned tasks  
+Track task status  
 
 <img width="1914" height="944" alt="Screenshot 2026-03-22 072430" src="https://github.com/user-attachments/assets/97522e64-d931-4c27-8a28-0471ffde5475" />
 <img width="1892" height="936" alt="Screenshot 2026-03-22 072406" src="https://github.com/user-attachments/assets/273e49e4-0931-4e88-ae42-37642ff47061" />
@@ -37,17 +37,17 @@ Track task status
 
 🌟 General Features
 
-Two-panel system (Manager & Employee)
-Persistent data without backend
-Real-time UI updates using React state
-Clean and responsive design
+Two-panel system (Manager & Employee)  
+Persistent data without backend  
+Real-time UI updates using React state  
+Clean and responsive design  
 
 📚 What I Learned
-Implementing role-based access in frontend applications
-Managing complex state and data flow in React
-Designing multi-user interfaces with different permissions
-Handling CRUD operations and task workflows
-Using localStorage for maintaining application state
+Implementing role-based access in frontend applications  
+Managing complex state and data flow in React  
+Designing multi-user interfaces with different permissions  
+Handling CRUD operations and task workflows  
+Using localStorage for maintaining application state  
 
 ▶️ Getting Started
 # Clone the repository
@@ -64,7 +64,7 @@ npm run dev
 
 The application will run at: http://localhost:5173
 
-📌 Future Improvements
+📌 Future Improvements  
 Backend integration for secure authentication
 Database support (MongoDB / Firebase)
 Real-time updates using APIs
