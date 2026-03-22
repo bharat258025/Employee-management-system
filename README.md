@@ -9,10 +9,10 @@ Managers can assign and monitor tasks, while employees can accept and track thei
 
 🛠️ Tech Stack
 
-React.js – For building reusable UI components
-JavaScript (ES6+) – Core logic and interactivity
-HTML5 & CSS3 – Layout and styling
-Local Storage API – Client-side data persistence
+React.js – For building reusable UI components  
+JavaScript (ES6+) – Core logic and interactivity  
+HTML5 & CSS3 – Layout and styling  
+Local Storage API – Client-side data persistence  
 
 ✨ Features
 
