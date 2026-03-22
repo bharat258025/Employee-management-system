@@ -1,21 +1,70 @@
-<<<<<<< HEAD
-# Employee-management-system
-Built an Employee Management System using React with localStorage to manage and persist employee data through a clean and user-friendly interface.
-=======
-# React + Vite
+👨‍💼 Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React-based Employee Management System with role-based login functionality, designed to manage and track tasks between managers and employees. It follows a clean component-based architecture and provides a smooth user experience without requiring a backend.
 
-Currently, two official plugins are available:
+🚀 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The system includes two main roles — Manager and Employee.
+Managers can assign and monitor tasks, while employees can accept and track their task progress. A role-based login system ensures that each user accesses only their respective panel. All data is stored using localStorage, enabling persistence across sessions.
 
-## React Compiler
+🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React.js – For building reusable UI components
+JavaScript (ES6+) – Core logic and interactivity
+HTML5 & CSS3 – Layout and styling
+Local Storage API – Client-side data persistence
 
-## Expanding the ESLint configuration
+✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 2ee8a3d (First Commit)
+🔐 Role-Based Login
+Separate login system for Manager and Employee
+Access control based on user role
+Session-like behavior using localStorage
+
+👨‍💼 Manager Panel
+Assign tasks to employees
+Track task status
+Monitor employees performance and progress
+
+👨‍🔧 Employee Panel
+View assigned tasks
+Track task status
+
+<img width="1914" height="944" alt="Screenshot 2026-03-22 072430" src="https://github.com/user-attachments/assets/97522e64-d931-4c27-8a28-0471ffde5475" />
+<img width="1892" height="936" alt="Screenshot 2026-03-22 072406" src="https://github.com/user-attachments/assets/273e49e4-0931-4e88-ae42-37642ff47061" />
+<img width="593" height="666" alt="Screenshot 2026-03-22 071755" src="https://github.com/user-attachments/assets/1e10eacf-9e75-4a0f-9f49-38841ec34d6e" />
+
+
+🌟 General Features
+Two-panel system (Manager & Employee)
+Persistent data without backend
+Real-time UI updates using React state
+Clean and responsive design
+
+📚 What I Learned
+Implementing role-based access in frontend applications
+Managing complex state and data flow in React
+Designing multi-user interfaces with different permissions
+Handling CRUD operations and task workflows
+Using localStorage for maintaining application state
+
+▶️ Getting Started
+# Clone the repository
+git clone https://github.com/bharat258025/employee-management-system.git
+
+# Navigate into the project directory
+cd ems
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
+
+The application will run at: http://localhost:5173
+
+📌 Future Improvements
+Backend integration for secure authentication
+Database support (MongoDB / Firebase)
+Real-time updates using APIs
+Advanced dashboard with analytics and reports
