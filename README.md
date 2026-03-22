@@ -32,10 +32,11 @@ Track task status
 
 <img width="1914" height="944" alt="Screenshot 2026-03-22 072430" src="https://github.com/user-attachments/assets/97522e64-d931-4c27-8a28-0471ffde5475" />
 <img width="1892" height="936" alt="Screenshot 2026-03-22 072406" src="https://github.com/user-attachments/assets/273e49e4-0931-4e88-ae42-37642ff47061" />
-<img width="593" height="666" alt="Screenshot 2026-03-22 071755" src="https://github.com/user-attachments/assets/1e10eacf-9e75-4a0f-9f49-38841ec34d6e" />
+<img width="1899" height="1019" alt="Screenshot 2026-03-22 074022" src="https://github.com/user-attachments/assets/0f0792e6-a837-4ef3-9b8a-6e2f9a414cdc" />
 
 
 🌟 General Features
+
 Two-panel system (Manager & Employee)
 Persistent data without backend
 Real-time UI updates using React state
