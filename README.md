@@ -21,12 +21,12 @@ Separate login system for Manager and Employee
 Access control based on user role  
 Session-like behavior using localStorage  
 
-👨‍💼 Manager Panel
+👨‍💼 Manager Panel  
 Assign tasks to employees    
 Track task status  
 Monitor employees performance and progress  
-
-👨‍🔧 Employee Panel
+  
+👨‍🔧 Employee Panel  
 View assigned tasks  
 Track task status  
 
